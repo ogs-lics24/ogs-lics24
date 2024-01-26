@@ -1,0 +1,7 @@
+(include_subdirs qualified)
+
+(coq.theory
+ (name OGS)
+ (package coq-ogs)
+ (theories Coinduction Equations)
+)
